@@ -1,0 +1,356 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="/Users/paphatsirithangthai/.gradle/caches/modules-2/files-2.1/com.android.support/support-annotations/27.1.1/39ded76b5e1ce1c5b2688e1d25cdc20ecee32007/support-annotations-27.1.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="39ded76b5e1ce1c5b2688e1d25cdc20ecee32007">
+        <dex dex="/Users/paphatsirithangthai/workspace/Github/AndroidToDoTest/app/build/intermediates/pre-dexed/debug/support-annotations-27.1.1_f5a907e10ea26a264ee7737290a5d776cf30d7da.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/paphatsirithangthai/.gradle/caches/modules-2/files-2.1/android.arch.core/common/1.0.0/a2d487452376193fc8c103dd2b9bd5f2b1b44563/common-1.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="a2d487452376193fc8c103dd2b9bd5f2b1b44563">
+        <dex dex="/Users/paphatsirithangthai/workspace/Github/AndroidToDoTest/app/build/intermediates/pre-dexed/debug/common-1.0.0_f57af583b66d0bfeb894d6ad91d990c7149862f3.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/paphatsirithangthai/.gradle/caches/modules-2/files-2.1/com.squareup/javawriter/2.1.1/67ff45d9ae02e583d0f9b3432a5ebbe05c30c966/javawriter-2.1.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="67ff45d9ae02e583d0f9b3432a5ebbe05c30c966">
+        <dex dex="/Users/paphatsirithangthai/workspace/Github/AndroidToDoTest/app/build/intermediates/pre-dexed/debug/javawriter-2.1.1_1e2b1ac4fa1a39e5f339fe06e5f05e56343d58b4.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/paphatsirithangthai/.gradle/caches/modules-2/files-2.1/org.jetbrains.anko/anko-appcompat-v7/0.8.2/ed7b4f73c336785997180849bedaf5d6a6dc5a0b/anko-appcompat-v7-0.8.2.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="ed7b4f73c336785997180849bedaf5d6a6dc5a0b">
+        <dex dex="/Users/paphatsirithangthai/workspace/Github/AndroidToDoTest/app/build/intermediates/pre-dexed/debug/anko-appcompat-v7-0.8.2_8e691e14b09e0ac197def75d51d8d5f79d7604d2.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/paphatsirithangthai/.gradle/caches/modules-2/files-2.1/org.hamcrest/hamcrest-integration/1.3/5de0c73fef18917cd85d0ab70bb23818685e4dfd/hamcrest-integration-1.3.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="5de0c73fef18917cd85d0ab70bb23818685e4dfd">
+        <dex dex="/Users/paphatsirithangthai/workspace/Github/AndroidToDoTest/app/build/intermediates/pre-dexed/debug/hamcrest-integration-1.3_5204c4a76a3141de9bc1a16c51451566be5b69a8.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/paphatsirithangthai/.android/build-cache/704cabf8bba198e9a7f790fc46e2cb2299cefb59/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="f428e2fbc9ed0b297e3a3f420e51e6982f66822d">
+        <dex dex="/Users/paphatsirithangthai/workspace/Github/AndroidToDoTest/app/build/intermediates/pre-dexed/debug/classes_55d68638d98c0e779ca454d9087e7234fc0b7680.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/paphatsirithangthai/.gradle/caches/modules-2/files-2.1/com.google.code.findbugs/jsr305/2.0.1/516c03b21d50a644d538de0f0369c620989cd8f0/jsr305-2.0.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="516c03b21d50a644d538de0f0369c620989cd8f0">
+        <dex dex="/Users/paphatsirithangthai/workspace/Github/AndroidToDoTest/app/build/intermediates/pre-dexed/debug/jsr305-2.0.1_221685ce22886d5829d821fcd8a1bb9ad22a60dd.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/paphatsirithangthai/.android/build-cache/d8f7a09ee816bfc6a1732c66a5cd1a907b82502f/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="58b12bdb21a84f22e0dc3b047aeceb0a546b1b44">
+        <dex dex="/Users/paphatsirithangthai/workspace/Github/AndroidToDoTest/app/build/intermediates/pre-dexed/debug/classes_da6a45786c4c8f85637e4883a20a31434372ef40.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/paphatsirithangthai/.android/build-cache/bb5f7a444e958649d2b5ed5790085b91ec05754e/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="f5b823e6bec834cb462f9c1ab5603915f3fb61eb">
+        <dex dex="/Users/paphatsirithangthai/workspace/Github/AndroidToDoTest/app/build/intermediates/pre-dexed/debug/classes_c75cd10687f85a65cbf9ce3f59f6af210e6824ec.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/paphatsirithangthai/.android/build-cache/846bbb33cbb822dc1e3b97a9a5dd772e99c07485/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="a5db9a2dd46d84285ef737f65030b74b6e8ee2a4">
+        <dex dex="/Users/paphatsirithangthai/workspace/Github/AndroidToDoTest/app/build/intermediates/pre-dexed/debug/classes_d5abd53b207723ac607d21b834788f761ae9e986.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/paphatsirithangthai/.gradle/caches/modules-2/files-2.1/net.sf.kxml/kxml2/2.3.0/ccbc77a5fd907ef863c29f3596c6f54ffa4e9442/kxml2-2.3.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="ccbc77a5fd907ef863c29f3596c6f54ffa4e9442">
+        <dex dex="/Users/paphatsirithangthai/workspace/Github/AndroidToDoTest/app/build/intermediates/pre-dexed/debug/kxml2-2.3.0_9b549c1eb665ed45752e871c6679ac078ebe2b08.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/paphatsirithangthai/.gradle/caches/modules-2/files-2.1/org.jetbrains.anko/anko-support-v4/0.8.2/aae9fb16f206a2f3b0289687218bc00b202b03d/anko-support-v4-0.8.2.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="0aae9fb16f206a2f3b0289687218bc00b202b03d">
+        <dex dex="/Users/paphatsirithangthai/workspace/Github/AndroidToDoTest/app/build/intermediates/pre-dexed/debug/anko-support-v4-0.8.2_7207b60f92081cce8eeaf3b4cca867e11224e1dd.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/paphatsirithangthai/.android/build-cache/deef6b9d939df1c8726e7183102398b65686a037/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="611605b6b640c1558f9bdea41de8ff837ab68ca8">
+        <dex dex="/Users/paphatsirithangthai/workspace/Github/AndroidToDoTest/app/build/intermediates/pre-dexed/debug/classes_5cebbc0ba7c9e5f87197ed211ee7de1e9a7f2560.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/paphatsirithangthai/.gradle/caches/modules-2/files-2.1/org.hamcrest/hamcrest-library/1.3/4785a3c21320980282f9f33d0d1264a69040538f/hamcrest-library-1.3.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="4785a3c21320980282f9f33d0d1264a69040538f">
+        <dex dex="/Users/paphatsirithangthai/workspace/Github/AndroidToDoTest/app/build/intermediates/pre-dexed/debug/hamcrest-library-1.3_5f80217b84f59f8eac78f9b4e96d2bd0c0008b06.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/paphatsirithangthai/.android/build-cache/f6c753a952b47e0dd1994bd76b6f144d94f483bd/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/Users/paphatsirithangthai/workspace/Github/AndroidToDoTest/app/build/intermediates/pre-dexed/debug/classes_4b19d5be0c8d495425a9051b4fdc63eadc31da60.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/paphatsirithangthai/.android/build-cache/003e4c17c58f64e254f4296e6b06b25e65e9c931/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="6f4138a4e065826cb044d49faea4cfd7191773d1">
+        <dex dex="/Users/paphatsirithangthai/workspace/Github/AndroidToDoTest/app/build/intermediates/pre-dexed/debug/classes_41b5115b1b978b3100390eafee3e09e416596498.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/paphatsirithangthai/.android/build-cache/2bce632efa3a3a9c46e879abf76bd7931deeabf6/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="9af3b9b8114e685291aa00e6572b0a9131244956">
+        <dex dex="/Users/paphatsirithangthai/workspace/Github/AndroidToDoTest/app/build/intermediates/pre-dexed/debug/classes_473261727fb491c803edae01c689e9775b0bfa78.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/paphatsirithangthai/.android/build-cache/ee15d48793fc44cb91db5165952acf717a93b233/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="ad5bb101ced4d3939225c9b57e5a3d81547c1fbb">
+        <dex dex="/Users/paphatsirithangthai/workspace/Github/AndroidToDoTest/app/build/intermediates/pre-dexed/debug/classes_0423f3c0b4df30cde9b2a30a48d8ebd8e0e87526.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/paphatsirithangthai/.android/build-cache/29b0b1750b67cda6d356576c52a7116555bf1b14/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="598b5d6a8e6168d5b4a18c45ccade14e04191696">
+        <dex dex="/Users/paphatsirithangthai/workspace/Github/AndroidToDoTest/app/build/intermediates/pre-dexed/debug/classes_f2add15a73948a9ac7e05fe7b575062e3dea78b2.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/paphatsirithangthai/.android/build-cache/b682429ee8f3535a05f6031106655c010670b2f6/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="a37fc31c5ceeaa4532a37358add1b189d8db4af1">
+        <dex dex="/Users/paphatsirithangthai/workspace/Github/AndroidToDoTest/app/build/intermediates/pre-dexed/debug/classes_01acf46e3c3c8bf6e0c61e1ad4696dedac6cf33f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/paphatsirithangthai/.android/build-cache/fbcc28c2998680a33b1f78fef21e0732186b4fc1/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="233f60a165ae622c8b36731502ebbda0f65e1930">
+        <dex dex="/Users/paphatsirithangthai/workspace/Github/AndroidToDoTest/app/build/intermediates/pre-dexed/debug/classes_7177b2bb22daaa39f138fc3970b0e216350019c2.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/paphatsirithangthai/.android/build-cache/7a3803064e11b31a8563c98166e477f2e1d2db3b/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="508f50705b4fde51a16259f29c854201a3044516">
+        <dex dex="/Users/paphatsirithangthai/workspace/Github/AndroidToDoTest/app/build/intermediates/pre-dexed/debug/classes_3aa0e637c235307c6edfc30405a46f0e3e1890c6.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/paphatsirithangthai/.android/build-cache/ba39a03ddc4aedba7ce152befa19dc4480b5ad51/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="b12cd9c87c3dfb012a911b6e38d2444ed0a65e1f">
+        <dex dex="/Users/paphatsirithangthai/workspace/Github/AndroidToDoTest/app/build/intermediates/pre-dexed/debug/classes_597524ddec4239eb15ce6cf7e8e5f07437563227.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/paphatsirithangthai/.gradle/caches/modules-2/files-2.1/android.arch.lifecycle/common/1.0.0/e414a4cb28434e25c4f6aa71426eb20cf4874ae9/common-1.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="e414a4cb28434e25c4f6aa71426eb20cf4874ae9">
+        <dex dex="/Users/paphatsirithangthai/workspace/Github/AndroidToDoTest/app/build/intermediates/pre-dexed/debug/common-1.0.0_5b966adf45390469b64f5fdf1d0b6933bb6f6271.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/paphatsirithangthai/.android/build-cache/7c7061daa86acfba7f9af25f13543410185ae6fe/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="7efef32744ca4a436492d5cf28c08698cc2af256">
+        <dex dex="/Users/paphatsirithangthai/workspace/Github/AndroidToDoTest/app/build/intermediates/pre-dexed/debug/classes_c992274b6ed1c6e0e3ebb09c2324a9011df9c5fb.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/paphatsirithangthai/.gradle/caches/modules-2/files-2.1/org.jetbrains.anko/anko-common/0.8.2/8974e9997afe8701e4207a315d4aa9bf7f05a8f4/anko-common-0.8.2.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="8974e9997afe8701e4207a315d4aa9bf7f05a8f4">
+        <dex dex="/Users/paphatsirithangthai/workspace/Github/AndroidToDoTest/app/build/intermediates/pre-dexed/debug/anko-common-0.8.2_22b59673f31b367e54dba641250265ca4d5d03b2.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/paphatsirithangthai/.android/build-cache/2b6296656c272c8451717ae780a3aa404cc99e0c/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="2442771a5590dd4eb4bce00c2e9dca9e22e4c963">
+        <dex dex="/Users/paphatsirithangthai/workspace/Github/AndroidToDoTest/app/build/intermediates/pre-dexed/debug/classes_9c42ecd49ab6cdca279d48d5579222e7f9fca0e9.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/paphatsirithangthai/.android/build-cache/c3706b7ecee76de650194c21230336bc3cd3c51d/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="f97cf85b0fe70d37a705111dafa6b1b418ea1650">
+        <dex dex="/Users/paphatsirithangthai/workspace/Github/AndroidToDoTest/app/build/intermediates/pre-dexed/debug/classes_85422ea4ebf79b53291bbabc0d557dcaeea1ebff.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/paphatsirithangthai/.gradle/caches/modules-2/files-2.1/org.jetbrains.kotlin/kotlin-stdlib/1.1.51/e34fe80c9714240525f665113dd3749415515655/kotlin-stdlib-1.1.51.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="e34fe80c9714240525f665113dd3749415515655">
+        <dex dex="/Users/paphatsirithangthai/workspace/Github/AndroidToDoTest/app/build/intermediates/pre-dexed/debug/kotlin-stdlib-1.1.51_d1e80c28a3f7041b888175ae7305e00ac63cfe38.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/paphatsirithangthai/.android/build-cache/e05de94976ba5d4d947601261ac3aab6b55eb584/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="40392f30a601db5675cdf18192aab013d6fee6ec">
+        <dex dex="/Users/paphatsirithangthai/workspace/Github/AndroidToDoTest/app/build/intermediates/pre-dexed/debug/classes_c433a6b43e48e6569db4ffaee88c7c102b27b65a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/paphatsirithangthai/.android/build-cache/5f690d589c053809bb51a5a86f75521bb2b92f19/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="b62fdc4cfef174c1e456014195c83fa7de7dc041">
+        <dex dex="/Users/paphatsirithangthai/workspace/Github/AndroidToDoTest/app/build/intermediates/pre-dexed/debug/classes_9515838ebfcbf991fca2ddce74a8bee06a857fb0.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/paphatsirithangthai/.android/build-cache/93a7d26ab55ac0547429448d3fc7252771c42752/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="c9ef45dcbd082cd63aac09a5e2cd443adb5df837">
+        <dex dex="/Users/paphatsirithangthai/workspace/Github/AndroidToDoTest/app/build/intermediates/pre-dexed/debug/classes_ab5235c6595439acccd076cf92a36d402e1d5de8.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/paphatsirithangthai/.android/build-cache/ad6c605c4783b57f8af616f33db51b9e2ab46c4d/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="d1c141f460491048807c5d7cadf25b3591a2f10e">
+        <dex dex="/Users/paphatsirithangthai/workspace/Github/AndroidToDoTest/app/build/intermediates/pre-dexed/debug/classes_131d8f68de6accdea43da6a1ba84c0d9861e1e6c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/paphatsirithangthai/.gradle/caches/modules-2/files-2.1/org.jetbrains/annotations/13.0/919f0dfe192fb4e063e7dacadee7f8bb9a2672a9/annotations-13.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="919f0dfe192fb4e063e7dacadee7f8bb9a2672a9">
+        <dex dex="/Users/paphatsirithangthai/workspace/Github/AndroidToDoTest/app/build/intermediates/pre-dexed/debug/annotations-13.0_b2a47d6968f1ee0d743b6953d2ee6d808cc38fa8.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/paphatsirithangthai/.gradle/caches/modules-2/files-2.1/javax.inject/javax.inject/1/6975da39a7040257bd51d21a231b76c915872d38/javax.inject-1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="6975da39a7040257bd51d21a231b76c915872d38">
+        <dex dex="/Users/paphatsirithangthai/workspace/Github/AndroidToDoTest/app/build/intermediates/pre-dexed/debug/javax.inject-1_4d327c9e1e23c226d0f8ac0143200e598577edec.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/paphatsirithangthai/.gradle/caches/modules-2/files-2.1/org.hamcrest/hamcrest-core/1.3/42a25dc3219429f0e5d060061f71acb49bf010a0/hamcrest-core-1.3.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="42a25dc3219429f0e5d060061f71acb49bf010a0">
+        <dex dex="/Users/paphatsirithangthai/workspace/Github/AndroidToDoTest/app/build/intermediates/pre-dexed/debug/hamcrest-core-1.3_6753a48c71fd42f7c8731f31a7f1ac96671026b3.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/paphatsirithangthai/.gradle/caches/modules-2/files-2.1/junit/junit/4.12/2973d150c0dc1fefe998f834810d68f278ea58ec/junit-4.12.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="2973d150c0dc1fefe998f834810d68f278ea58ec">
+        <dex dex="/Users/paphatsirithangthai/workspace/Github/AndroidToDoTest/app/build/intermediates/pre-dexed/debug/junit-4.12_c3094ecd66e4da08ce03779591935fb2e3a29c86.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/paphatsirithangthai/.gradle/caches/modules-2/files-2.1/org.jetbrains.anko/anko-sqlite/0.8.2/cf6129f3eb2c917528f5cd26ced4df1685c870bd/anko-sqlite-0.8.2.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="cf6129f3eb2c917528f5cd26ced4df1685c870bd">
+        <dex dex="/Users/paphatsirithangthai/workspace/Github/AndroidToDoTest/app/build/intermediates/pre-dexed/debug/anko-sqlite-0.8.2_091c41ddc3ef0a2d145b96f8efdd7b00fd78f865.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/paphatsirithangthai/.android/build-cache/cf5075bacb418df14f7f6cc2bcd5f21c07684287/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="9af0aa2bba2abd1f64384bd7a62e86f3914465ff">
+        <dex dex="/Users/paphatsirithangthai/workspace/Github/AndroidToDoTest/app/build/intermediates/pre-dexed/debug/classes_34720334eceae8510ba072b0d841b820e6c8a5e0.jar" />
+    </item>
+
+</items>

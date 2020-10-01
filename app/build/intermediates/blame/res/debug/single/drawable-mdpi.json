@@ -1,0 +1,26 @@
+[
+    {
+        "merged": "/Users/paphatsirithangthai/workspace/Github/AndroidToDoTest/app/build/intermediates/res/merged/debug/drawable-mdpi/ic_action_remove.png",
+        "source": "/Users/paphatsirithangthai/workspace/Github/AndroidToDoTest/app/src/main/res/drawable-mdpi/ic_action_remove.png"
+    },
+    {
+        "merged": "/Users/paphatsirithangthai/workspace/Github/AndroidToDoTest/app/build/intermediates/res/merged/debug/drawable-mdpi/ic_action_new.png",
+        "source": "/Users/paphatsirithangthai/workspace/Github/AndroidToDoTest/app/src/main/res/drawable-mdpi/ic_action_new.png"
+    },
+    {
+        "merged": "/Users/paphatsirithangthai/workspace/Github/AndroidToDoTest/app/build/intermediates/res/merged/debug/drawable-mdpi/icon.png",
+        "source": "/Users/paphatsirithangthai/workspace/Github/AndroidToDoTest/app/src/main/res/drawable-mdpi/icon.png"
+    },
+    {
+        "merged": "/Users/paphatsirithangthai/workspace/Github/AndroidToDoTest/app/build/intermediates/res/merged/debug/drawable-mdpi/ic_action_accept.png",
+        "source": "/Users/paphatsirithangthai/workspace/Github/AndroidToDoTest/app/src/main/res/drawable-mdpi/ic_action_accept.png"
+    },
+    {
+        "merged": "/Users/paphatsirithangthai/workspace/Github/AndroidToDoTest/app/build/intermediates/res/merged/debug/drawable-mdpi/priority_icon.png",
+        "source": "/Users/paphatsirithangthai/workspace/Github/AndroidToDoTest/app/src/main/res/drawable-mdpi/priority_icon.png"
+    },
+    {
+        "merged": "/Users/paphatsirithangthai/workspace/Github/AndroidToDoTest/app/build/intermediates/res/merged/debug/drawable-mdpi/ic_action_settings.png",
+        "source": "/Users/paphatsirithangthai/workspace/Github/AndroidToDoTest/app/src/main/res/drawable-mdpi/ic_action_settings.png"
+    }
+]

@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/Users/paphatsirithangthai/workspace/Github/AndroidToDoTest/app/build/intermediates/res/merged/debug/xml/preferences.xml",
+        "source": "/Users/paphatsirithangthai/workspace/Github/AndroidToDoTest/app/src/main/res/xml/preferences.xml"
+    },
+    {
+        "merged": "/Users/paphatsirithangthai/workspace/Github/AndroidToDoTest/app/build/intermediates/res/merged/debug/xml/todo_widget.xml",
+        "source": "/Users/paphatsirithangthai/workspace/Github/AndroidToDoTest/app/src/main/res/xml/todo_widget.xml"
+    }
+]

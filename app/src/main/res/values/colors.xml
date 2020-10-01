@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!-- Material design -->
+    <color name="primary_color_dark">#ff006894</color>
+    <color name="primary_color">#ff0090cb</color>
+    <color name="color_accent">#ff0069a8</color>
+
+    <color name="color_control_normal">#ffa7a7a7</color>
+    <color name="color_control_activated">#ff757575</color>
+
+    <!-- Main colors -->
+    <color name="white">#ffffff</color>
+    <color name="done">#259b24</color>
+    <color name="remove">#ffff0000</color>
+    <color name="list_clicked">#ffd1d1d1</color>
+
+    <!-- Main colors -->
+    <color name="dark_blue">#003753</color>
+
+    <color name="transparent">#00000000</color>
+
+    <!-- Priorities -->
+    <color name="high_priority">#f40000</color>
+    <color name="normal_priority">#ffcb6a00</color>
+    <color name="low_priority">#ffb4ac00</color>
+
+    <!-- Style colors -->
+    <color name="black">#000000</color>
+    <color name="light_text">#ff525252</color>
+    <color name="very_light_text">#ffb1b1b1</color>
+</resources>

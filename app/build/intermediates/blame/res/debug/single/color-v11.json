@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/Users/paphatsirithangthai/workspace/Github/AndroidToDoTest/app/build/intermediates/res/merged/debug/color-v11/abc_background_cache_hint_selector_material_light.xml",
+        "source": "/Users/paphatsirithangthai/.android/build-cache/704cabf8bba198e9a7f790fc46e2cb2299cefb59/output/res/color-v11/abc_background_cache_hint_selector_material_light.xml"
+    },
+    {
+        "merged": "/Users/paphatsirithangthai/workspace/Github/AndroidToDoTest/app/build/intermediates/res/merged/debug/color-v11/abc_background_cache_hint_selector_material_dark.xml",
+        "source": "/Users/paphatsirithangthai/.android/build-cache/704cabf8bba198e9a7f790fc46e2cb2299cefb59/output/res/color-v11/abc_background_cache_hint_selector_material_dark.xml"
+    }
+]

@@ -1,0 +1,4 @@
+#Fri Oct 02 01:22:33 ICT 2020
+base.0=/Users/paphatsirithangthai/workspace/Github/AndroidToDoTest/app/build/intermediates/transforms/dex/debug/folders/1000/1f/main
+renamed.0=classes.dex
+file.0=/Users/paphatsirithangthai/workspace/Github/AndroidToDoTest/app/build/intermediates/transforms/dex/debug/folders/1000/1f/main/classes.dex

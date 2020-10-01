@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "/Users/paphatsirithangthai/workspace/Github/AndroidToDoTest/app/build/intermediates/res/merged/debug/layout-v21/notification_action.xml",
+        "source": "/Users/paphatsirithangthai/.android/build-cache/2b6296656c272c8451717ae780a3aa404cc99e0c/output/res/layout-v21/notification_action.xml"
+    },
+    {
+        "merged": "/Users/paphatsirithangthai/workspace/Github/AndroidToDoTest/app/build/intermediates/res/merged/debug/layout-v21/notification_template_custom_big.xml",
+        "source": "/Users/paphatsirithangthai/.android/build-cache/2b6296656c272c8451717ae780a3aa404cc99e0c/output/res/layout-v21/notification_template_custom_big.xml"
+    },
+    {
+        "merged": "/Users/paphatsirithangthai/workspace/Github/AndroidToDoTest/app/build/intermediates/res/merged/debug/layout-v21/notification_template_icon_group.xml",
+        "source": "/Users/paphatsirithangthai/.android/build-cache/2b6296656c272c8451717ae780a3aa404cc99e0c/output/res/layout-v21/notification_template_icon_group.xml"
+    },
+    {
+        "merged": "/Users/paphatsirithangthai/workspace/Github/AndroidToDoTest/app/build/intermediates/res/merged/debug/layout-v21/notification_action_tombstone.xml",
+        "source": "/Users/paphatsirithangthai/.android/build-cache/2b6296656c272c8451717ae780a3aa404cc99e0c/output/res/layout-v21/notification_action_tombstone.xml"
+    }
+]

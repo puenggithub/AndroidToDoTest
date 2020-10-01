@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <style name="MyTheme" parent="Theme.AppCompat.Light.DarkActionBar">
+        <!-- colorPrimary is used for the default action bar background -->
+        <item name="colorPrimary">@color/primary_color</item>
+
+        <!-- colorPrimaryDark is used for the status bar -->
+        <item name="colorPrimaryDark">@color/primary_color_dark</item>
+
+        <!-- colorAccent is used as the default value for colorControlActivated,
+         which is used to tint widgets -->
+        <item name="colorAccent">@color/color_accent</item>
+
+        <item name="colorControlNormal">@color/color_control_normal</item>
+        <item name="colorControlActivated">@color/color_control_activated</item>
+
+
+        <!-- You can also set colorControlNormal, colorControlActivated
+            colorControlHighlight, and colorSwitchThumbNormal. -->
+    </style>
+
+    <style name="MyTheme.Dark" parent="Theme.AppCompat">
+
+    </style>
+
+    <style name="WidgetBackground">
+        <item name="android:background">@drawable/widget_background</item>
+    </style>
+
+</resources>

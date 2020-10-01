@@ -1,0 +1,16 @@
+<PreferenceScreen xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <PreferenceCategory
+        android:title="@string/widget"
+        android:summary="@string/widget">
+        <CheckBoxPreference
+            android:key="widgetTransparentBackground"
+            android:defaultValue="false"
+            android:title="@string/transparentBackground" />
+        <CheckBoxPreference
+            android:key="widgetHideTitle"
+            android:defaultValue="false"
+            android:title="@string/hideTitle" />
+    </PreferenceCategory>
+
+</PreferenceScreen>
